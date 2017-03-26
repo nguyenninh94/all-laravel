@@ -1,0 +1,25 @@
+<?php
+
+return [
+   'Home' => 'Home',
+   'Signin' => 'Sign in',
+   'Signup' => 'Sign up',
+   'Logout' => 'Logout',
+   'Email' => 'Email',
+   'Password' => 'Password',
+   'Hello' => 'Hello',
+   'ConfirmPassword' => 'Confirm Password',
+   'Reset' => 'Reset',
+   'Profile' => 'Profile',
+   'ShoppingCart' => 'Shopping Cart',
+   'Name' => 'Name',
+   'UserManage' => 'User management',
+   'Created' => 'Created At',
+   'Updated' => 'Updated At',
+   'User' => 'There are no users.',
+   'Search' => 'Search',
+   'Map' => 'Map',
+   'Tag' => 'Tag',
+   'Comment' => 'Comment',
+   'Import' => 'Import Excel or Pdf',
+]; 

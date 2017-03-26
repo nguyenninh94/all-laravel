@@ -1,0 +1,25 @@
+<?php
+
+return [
+   'Home' => 'Trang chủ',
+   'Signin' => 'Đăng nhập',
+   'Signup' => 'Đăng ký',
+   'Logout' => 'Thoát',
+   'Email' => 'Email',
+   'Password' => 'Mật khẩu',
+   'Hello' => 'Xin Chao',
+   'ConfirmPassword' => 'Mật khẩu xác nhận',
+   'Reset' => 'Trở lại',
+   'Profile' => 'Hồ sơ',
+   'ShoppingCart' => 'Giỏ hàng',
+   'Name' => 'Họ tên',
+   'UserManage' => 'Quản lý thành viên',
+   'Created' => 'Thời gian tạo',
+   'Updated' => 'Thời gian cập nhật',
+   'User' => 'Không có thành viên nào.',
+   'Search' => 'Tìm kiếm',
+   'Map' => 'Bản đo',
+   'Tag' => 'Nhãn',
+   'Comment' => 'Bình luận',
+   'Import' => 'Xuất Excel hoặc Pdf',
+];
